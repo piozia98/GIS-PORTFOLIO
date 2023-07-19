@@ -167,14 +167,80 @@ Lokalizacja obszarów opracowania:
 Mój ostatni projekt d
 
 ### Analiza dróg kołowych i szynowych
-Mój ostatni pr
 
 <img src="images/Analiza dróg kołowych i szynowych.jpg" alt="Analiza dróg kołowych i szynowych">
 
+### Analiza sieci rowerowej
+
+<img src="images/Analiza sieci rowerowej_2.jpg" alt="Analiza sieci rowerowej">
+
+### Analiza komunikacji publicznej
+
+<img src="images/Analiza komunikacji publicznej.jpg" alt="Analiza komunikacji publicznej">
+
 ### Analiza funkcji użytkowych budynków
-Mój ostatni pr
 
 <img src="images/Analiza funkcji użytkowych budynków.jpg" alt="Analiza funkcji użytkowych budynków">
+
+### A
+
+<img src="images/Analiza terenów zabudowy.jpg" alt="A">
+
+### A
+
+<img src="images/Analiza walorów historycznych.jpg" alt="A">
+
+### A
+
+<img src="images/Analiza wysokości budynków.jpg" alt="A">
+
+### A
+
+<img src="images/Analiza geomotrii dachów (kształtów połaci dachowych).jpg" alt="A">
+
+### A
+
+<img src="images/Analiza kompozycyjno-widokowa.jpg" alt="A">
+
+### A
+
+<img src="images/Analiza parcalacji działek.jpg" alt="A">
+
+### A
+
+<img src="images/Analiza powierzchni działek.jpg" alt="A">
+
+### A
+
+<img src="images/Analiza struktury własnościowej działek.jpg" alt="A">
+
+### A
+
+<img src="images/Analiza struktury kwartałów zabudowy.jpg" alt="A">
+
+### A
+
+<img src="images/Analiza planistyczna MPZP.jpg" alt="A">
+
+### A
+
+<img src="images/Analiza planistyczna SUiKZP.jpg" alt="A">
+
+### A
+
+<img src="images/Analiza terenów zieleni (środowiskowa).jpg" alt="A">
+
+### A
+
+<img src="images/Analiza wysokości drzew.jpg" alt="A">
+
+### A
+
+<img src="images/Analiza hałasu.jpg" alt="A">
+
+### A
+
+<img src="images/Waloryzacja.jpg" alt="A">
  
 <h2>📫 Kontakt</h2>
 
