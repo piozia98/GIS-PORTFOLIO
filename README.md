@@ -246,6 +246,6 @@ Analizy opracowane były na podstawie danych przestrzennych z okresu 02.2023 - 0
 
 <img src="images/Waloryzacja.jpg" alt="Waloryzacja przestrzeni obszarów opracowania">
  
-<h2>📫 Kontakt</h2>
+# Kontakt
 
 <a href="https://www.linkedin.com/in/piozia98/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
