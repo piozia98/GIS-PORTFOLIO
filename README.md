@@ -1,12 +1,7 @@
 ![Header](./images/header_img.jpg)
 
 # O mnie
-Nazywam się Piotr Ziaja i jestem absolwentem studiów inżynierskich Uniwersytetu im. Adama Mickiewicza w Poznaniu na kierunku Gospodarka Przestrzenna. Zdobyłem podstawową wiedzę z zakresu planowania przestrzennego i rozwoju regionalnego. Posiadam praktyczne umiejętności obsługi narzędzi GIS, CAD, SketchUp oraz MS Office w celu opracowywania czytelnych analiz i formułowania wniosków dla dokumentów strategicznych oraz przygotowania koncepcji zagospodarowania przestrzennego.
-
-# Kontakt
-
-<a href="https://www.linkedin.com/in/piozia98/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
+Nazywam się Piotr Ziaja i jestem absolwentem studiów inżynierskich Uniwersytetu im. Adama Mickiewicza w Poznaniu na kierunku Gospodarka Przestrzenna. Zdobyłem podstawową wiedzę z zakresu planowania przestrzennego i rozwoju regionalnego. Posiadam praktyczne umiejętności obsługi narzędzi GIS, CAD, SketchUp oraz MS Office w celu opracowywania czytelnych analiz i formułowania wniosków dla dokumentów strategicznych oraz przygotowania koncepcji zagospodarowania przestrzennego. 
 
 # Projekt
 Mój ostatni projekt dotyczył mojej pracy inżynierskiej pt.: „Koncepcja zagospodarowania przestrzennego terenów: ROD przy ul. Hetmańskiej oraz terenu pomiędzy ul. Hetmańską i Krathofera w Poznaniu” i koncentrował się na procesie oceny i ustalania zasad dotyczących zagospodarowania przestrzennego na danych obszarach, aby opracować zrównoważoną koncepcję zagospodarowania przestrzennego służącą mieszkańcom miasta Poznań.
@@ -252,3 +247,7 @@ Analizy opracowane były na podstawie danych przestrzennych z okresu 02.2023 - 0
 <img src="images/Waloryzacja.jpg" alt="Waloryzacja przestrzeni obszarów opracowania">
 
 [Przewiń do góry](#o-mnie) 
+
+# Kontakt
+
+<a href="https://www.linkedin.com/in/piozia98/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
