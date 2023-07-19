@@ -4,56 +4,13 @@
 Nazywam się Piotr Ziaja i jestem absolwentem studiów inżynierskich Uniwersytetu im. Adama Mickiewicza w Poznaniu na kierunku Gospodarka Przestrzenna. Zdobyłem podstawową wiedzę z zakresu planowania przestrzennego i rozwoju regionalnego. Posiadam praktyczne umiejętności obsługi narzędzi GIS, CAD, SketchUp oraz MS Office w celu opracowywania czytelnych analiz i formułowania wniosków dla dokumentów strategicznych oraz przygotowania koncepcji zagospodarowania przestrzennego.
 
 # Projekt
-Mój ostatni projekt dotyczył mojej pracy inżynierskiej pt.: „Koncepcja zagospodarowania przestrzennego terenów: ROD przy ul. Hetmańskiej oraz terenu pomiędzy ul. Hetmańską i Krathofera w Poznaniu” i koncentrował się na procesie oceny i ustalania zasad dotyczących zagospodarowania przestrzennego na danym obszarze, aby opracować zrównoważoną koncepcję zagospodarowania przestrzennego służącą mieszkańcom miasta Poznań.
+Mój ostatni projekt dotyczył mojej pracy inżynierskiej pt.: „Koncepcja zagospodarowania przestrzennego terenów: ROD przy ul. Hetmańskiej oraz terenu pomiędzy ul. Hetmańską i Krathofera w Poznaniu” i koncentrował się na procesie oceny i ustalania zasad dotyczących zagospodarowania przestrzennego na danych obszarach, aby opracować zrównoważoną koncepcję zagospodarowania przestrzennego służącą mieszkańcom miasta Poznań.
 
-Lokalizacja obszaru opracowania:
+Lokalizacja obszarów opracowania:
 ```geojson
 {
   "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              16.89966723837884,
-              52.390284211630586
-            ],
-            [
-              16.89897838047648,
-              52.38938769569219
-            ],
-            [
-              16.898696197721733,
-              52.388805203826394
-            ],
-            [
-              16.902713152235208,
-              52.38743251868249
-            ],
-            [
-              16.903941477169298,
-              52.388825464542236
-            ],
-            [
-              16.902605258828828,
-              52.389661210959474
-            ],
-            [
-              16.902256680131046,
-              52.38977770768835
-            ],
-            [
-              16.89966723837884,
-              52.390284211630586
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      }
-    },
     {
       "type": "Feature",
       "properties": {},
@@ -113,24 +70,36 @@ Lokalizacja obszaru opracowania:
               52.38461723075045
             ],
             [
-              16.903073471076254,
-              52.38408320689942
+              16.902499783450565,
+              52.384291954946804
             ],
             [
-              16.90326456938064,
-              52.384291086586245
+              16.902853742494358,
+              52.384662245187144
             ],
             [
-              16.903614566179897,
-              52.38537922980879
+              16.902990752030988,
+              52.38486016492746
             ],
             [
-              16.90352404374306,
-              52.38545598023512
+              16.903062860399302,
+              52.38506185188078
             ],
             [
-              16.90258587891927,
-              52.385757433046535
+              16.903045600778526,
+              52.3852443276412
+            ],
+            [
+              16.90298306103682,
+              52.38541501662618
+            ],
+            [
+              16.902863700203483,
+              52.38556733404883
+            ],
+            [
+              16.90275968390182,
+              52.385722072883965
             ],
             [
               16.902617072467507,
@@ -139,6 +108,49 @@ Lokalizacja obszaru opracowania:
             [
               16.90305362392192,
               52.38671970084701
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              16.89966723837884,
+              52.390284211630586
+            ],
+            [
+              16.89897838047648,
+              52.38938769569219
+            ],
+            [
+              16.898696197721733,
+              52.388805203826394
+            ],
+            [
+              16.902713152235208,
+              52.38743251868249
+            ],
+            [
+              16.903941477169298,
+              52.388825464542236
+            ],
+            [
+              16.902605258828828,
+              52.389661210959474
+            ],
+            [
+              16.902256680131046,
+              52.38977770768835
+            ],
+            [
+              16.89966723837884,
+              52.390284211630586
             ]
           ]
         ],
