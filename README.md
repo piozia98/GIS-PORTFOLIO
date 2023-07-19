@@ -164,7 +164,11 @@ Lokalizacja obszarów opracowania:
 [Przewiń do góry](#o-mnie) 
 
 # Wybrane analizy w ramach projektu
-Mój ostatni projekt d
+Analizy opracowane były na podstawie danych przestrzennych z okresu 02.2023 - 03.2023 roku. 
+
+Źródła danych:
+- Zarząd Geodezji i Katastru Miejskiego GEOPOZ, [geopoz.poznan.pl](https://geopoz.poznan.pl/).
+- Portal Systemu Informacji Przestrzennej Miasta Poznania, [sip.geopoz.pl/sip](http://sip.geopoz.pl/sip/).
 
 ### Analiza parcalacji działek ewidencyjnych
 
