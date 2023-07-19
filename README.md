@@ -222,9 +222,9 @@ Analizy opracowane były na podstawie danych przestrzennych z okresu 02.2023 - 0
 
 <img src="images/Analiza wysokości budynków.jpg" alt="Analiza wysokości budynków">
 
-### Analiza geomotrii dachów
+### Analiza geometrii dachów
 
-<img src="images/Analiza geomotrii dachów (kształtów połaci dachowych).jpg" alt="Analiza geomotrii dachów">
+<img src="images/Analiza geomotrii dachów (kształtów połaci dachowych).jpg" alt="Analiza geometrii dachów">
 
 ### Analiza kompozycyjno-widokowa
 
