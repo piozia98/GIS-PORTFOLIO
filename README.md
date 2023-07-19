@@ -249,6 +249,7 @@ Analizy opracowane były na podstawie danych przestrzennych z okresu 02.2023 - 0
 [Przewiń do góry](#o-mnie) 
 
 # Koncepcja zagospodarowania przestrzennego dla obszarów opracowania
+W koncepcji zagospodarowania przestrzennego terenów: ROD przy ul. Hetmańskiej oraz terenu pomiędzy ul. Hetmańską i Krauthofera w Poznaniu zaproponowano stworzenie osiedla z zabudową wielorodzinną z usługami, gdzie usługi zlokalizowane są wzdłuż ul. Hetmańskiej. Natomiast na obszarze działek ROD zaproponowano przeznaczenie tego terenu pod park miejski o wielofunkcyjnej możliwości użytkowania terenu, proponując wiele różnorodnych stref aktywności pozwalających na rozrywkę i wypoczynek dla różnych grup wiekowych mieszkańców.
 
 <img src="images/Koncepcja ZP.jpg" alt="Koncepcja zagospodarowania przestrzennego dla obszarów opracowania">
 
