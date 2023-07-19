@@ -163,6 +163,9 @@ Lokalizacja obszarów opracowania:
 
 [Przewiń do góry](#o-mnie) 
 
+# Wybrane analizy w ramach projektu
+Mój ostatni projekt d
+
 ### Analiza dróg kołowych i szynowych
 Mój ostatni pr
 
