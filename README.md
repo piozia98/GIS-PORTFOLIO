@@ -148,7 +148,7 @@ Lokalizacja obszaru opracowania:
   ]
 }
 ```
-[Back to top](#o-mnie) 
+[Przewiń do góry](#o-mnie) 
  
 <h2>📫 Kontakt</h2>
 
