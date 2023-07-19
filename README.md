@@ -169,7 +169,12 @@ Mój ostatni projekt d
 ### Analiza dróg kołowych i szynowych
 Mój ostatni pr
 
-<img src="images/Analiza dróg kołowych i szynowych.jpg" alt="Alt text" title="Optional title">
+<img src="images/Analiza dróg kołowych i szynowych.jpg" alt="Analiza dróg kołowych i szynowych">
+
+### Analiza funkcji użytkowych budynków
+Mój ostatni pr
+
+<img src="images/Analiza funkcji użytkowych budynków.jpg" alt="Analiza funkcji użytkowych budynków">
  
 <h2>📫 Kontakt</h2>
 
