@@ -248,6 +248,12 @@ Analizy opracowane były na podstawie danych przestrzennych z okresu 02.2023 - 0
 
 [Przewiń do góry](#o-mnie) 
 
+# Koncepcja zagospodarowania przestrzennego dla obszarów opracowania
+
+<img src="images/Koncepcja ZP.jpg" alt="Koncepcja zagospodarowania przestrzennego dla obszarów opracowania">
+
+[Przewiń do góry](#o-mnie) 
+
 # Kontakt
 
 <a href="https://www.linkedin.com/in/piozia98/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
