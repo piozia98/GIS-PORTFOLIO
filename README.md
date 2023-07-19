@@ -182,9 +182,9 @@ Analizy opracowane były na podstawie danych przestrzennych z okresu 02.2023 - 0
 
 <img src="images/Analiza struktury własnościowej działek.jpg" alt="Analiza struktury własnościowej działek ewidencyjnych">
 
-### Analiza struktury kwartałów zabudow
+### Analiza struktury kwartałów zabudowy
 
-<img src="images/Analiza struktury kwartałów zabudowy.jpg" alt="Analiza struktury kwartałów zabudow">
+<img src="images/Analiza struktury kwartałów zabudowy.jpg" alt="Analiza struktury kwartałów zabudowy">
 
 ### Analiza Miejscowych Planów Zagospodarowania Przestrzennego
 
