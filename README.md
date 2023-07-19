@@ -160,7 +160,13 @@ Lokalizacja obszarów opracowania:
   ]
 }
 ```
+
 [Przewiń do góry](#o-mnie) 
+
+### Analiza dróg kołowych i szynowych
+Mój ostatni pr
+
+<img src="images/Analiza dróg kołowych i szynowych.jpg" alt="Alt text" title="Optional title">
  
 <h2>📫 Kontakt</h2>
 
