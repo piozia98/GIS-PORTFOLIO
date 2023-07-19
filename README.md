@@ -170,9 +170,9 @@ Analizy opracowane były na podstawie danych przestrzennych z okresu 02.2023 - 0
 - Zarząd Geodezji i Katastru Miejskiego GEOPOZ, [geopoz.poznan.pl](https://geopoz.poznan.pl/).
 - Portal Systemu Informacji Przestrzennej Miasta Poznania, [sip.geopoz.pl/sip](http://sip.geopoz.pl/sip/).
 
-### Analiza parcalacji działek ewidencyjnych
+### Analiza parcelacji działek ewidencyjnych
 
-<img src="images/Analiza parcalacji działek.jpg" alt="Analiza parcalacji działek ewidencyjnych">
+<img src="images/Analiza parcalacji działek.jpg" alt="Analiza parcelacji działek ewidencyjnych">
 
 ### Analiza powierzchni działek ewidencyjnych
 
@@ -238,9 +238,9 @@ Analizy opracowane były na podstawie danych przestrzennych z okresu 02.2023 - 0
 
 <img src="images/Analiza wysokości drzew.jpg" alt="Analiza wysokości drzew">
 
-### Analiza imisji hałasu (drogowego, tramwajowego i kolejowego)
+### Analiza immisji hałasu (drogowego, tramwajowego i kolejowego)
 
-<img src="images/Analiza hałasu.jpg" alt="Analiza imisji hałasu (drogowego, tramwajowego i kolejowego)">
+<img src="images/Analiza hałasu.jpg" alt="Analiza immisji hałasu (drogowego, tramwajowego i kolejowego)">
 
 ### Waloryzacja przestrzeni obszarów opracowania 
 
