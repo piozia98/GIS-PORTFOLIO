@@ -166,6 +166,30 @@ Lokalizacja obszarów opracowania:
 # Wybrane analizy w ramach projektu
 Mój ostatni projekt d
 
+### Analiza parcalacji działek ewidencyjnych
+
+<img src="images/Analiza parcalacji działek.jpg" alt="Analiza parcalacji działek ewidencyjnych">
+
+### Analiza powierzchni działek ewidencyjnych
+
+<img src="images/Analiza powierzchni działek.jpg" alt="Analiza powierzchni działek ewidencyjnych">
+
+### Analiza struktury własnościowej działek ewidencyjnych
+
+<img src="images/Analiza struktury własnościowej działek.jpg" alt="Analiza struktury własnościowej działek ewidencyjnych">
+
+### Analiza struktury kwartałów zabudow
+
+<img src="images/Analiza struktury kwartałów zabudowy.jpg" alt="Analiza struktury kwartałów zabudow">
+
+### Analiza Miejscowych Planów Zagospodarowania Przestrzennego
+
+<img src="images/Analiza planistyczna MPZP.jpg" alt="Analiza Miejscowych Planów Zagospodarowania Przestrzennego">
+
+### Analiza Studium Uwarunkowań i Kierunków Zagospodarowania Przestrzennego
+
+<img src="images/Analiza planistyczna SUiKZP.jpg" alt="Analiza Studium Uwarunkowań i Kierunków Zagospodarowania Przestrzennego">
+
 ### Analiza dróg kołowych i szynowych
 
 <img src="images/Analiza dróg kołowych i szynowych.jpg" alt="Analiza dróg kołowych i szynowych">
@@ -182,65 +206,41 @@ Mój ostatni projekt d
 
 <img src="images/Analiza funkcji użytkowych budynków.jpg" alt="Analiza funkcji użytkowych budynków">
 
-### A
+### Analiza przeznaczenia terenów
 
-<img src="images/Analiza terenów zabudowy.jpg" alt="A">
+<img src="images/Analiza terenów zabudowy.jpg" alt="Analiza przeznaczenia terenów">
 
-### A
+### Analiza walorów historycznych
 
-<img src="images/Analiza walorów historycznych.jpg" alt="A">
+<img src="images/Analiza walorów historycznych.jpg" alt="Analiza walorów historycznych">
 
-### A
+### Analiza wysokości budynków
 
-<img src="images/Analiza wysokości budynków.jpg" alt="A">
+<img src="images/Analiza wysokości budynków.jpg" alt="Analiza wysokości budynków">
 
-### A
+### Analiza geomotrii dachów
 
-<img src="images/Analiza geomotrii dachów (kształtów połaci dachowych).jpg" alt="A">
+<img src="images/Analiza geomotrii dachów (kształtów połaci dachowych).jpg" alt="Analiza geomotrii dachów">
 
-### A
+### Analiza kompozycyjno-widokowa
 
-<img src="images/Analiza kompozycyjno-widokowa.jpg" alt="A">
+<img src="images/Analiza kompozycyjno-widokowa.jpg" alt="Analiza kompozycyjno-widokowa">
 
-### A
+### Analiza terenów zieleni
 
-<img src="images/Analiza parcalacji działek.jpg" alt="A">
+<img src="images/Analiza terenów zieleni (środowiskowa).jpg" alt="Analiza terenów zieleni">
 
-### A
+### Analiza wysokości drzew
 
-<img src="images/Analiza powierzchni działek.jpg" alt="A">
+<img src="images/Analiza wysokości drzew.jpg" alt="Analiza wysokości drzew">
 
-### A
+### Analiza imisji hałasu (drogowego, tramwajowego i kolejowego)
 
-<img src="images/Analiza struktury własnościowej działek.jpg" alt="A">
+<img src="images/Analiza hałasu.jpg" alt="Analiza imisji hałasu (drogowego, tramwajowego i kolejowego)">
 
-### A
+### Waloryzacja przestrzeni obszarów opracowania 
 
-<img src="images/Analiza struktury kwartałów zabudowy.jpg" alt="A">
-
-### A
-
-<img src="images/Analiza planistyczna MPZP.jpg" alt="A">
-
-### A
-
-<img src="images/Analiza planistyczna SUiKZP.jpg" alt="A">
-
-### A
-
-<img src="images/Analiza terenów zieleni (środowiskowa).jpg" alt="A">
-
-### A
-
-<img src="images/Analiza wysokości drzew.jpg" alt="A">
-
-### A
-
-<img src="images/Analiza hałasu.jpg" alt="A">
-
-### A
-
-<img src="images/Waloryzacja.jpg" alt="A">
+<img src="images/Waloryzacja.jpg" alt="Waloryzacja przestrzeni obszarów opracowania">
  
 <h2>📫 Kontakt</h2>
 
