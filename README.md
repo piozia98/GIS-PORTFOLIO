@@ -242,9 +242,9 @@ Analizy opracowane były na podstawie danych przestrzennych z okresu 02.2023 - 0
 
 <img src="images/Analiza hałasu.jpg" alt="Analiza immisji hałasu (drogowego, tramwajowego i kolejowego)">
 
-### Waloryzacja przestrzeni obszarów opracowania 
+### Waloryzacja przestrzeni publicznej
 
-<img src="images/Waloryzacja.jpg" alt="Waloryzacja przestrzeni obszarów opracowania">
+<img src="images/Waloryzacja.jpg" alt="Waloryzacja przestrzeni publicznej">
 
 [Przewiń do góry](#o-mnie) 
 
