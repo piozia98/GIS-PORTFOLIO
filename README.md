@@ -4,7 +4,7 @@
 Nazywam się Piotr Ziaja i jestem absolwentem studiów inżynierskich Uniwersytetu im. Adama Mickiewicza w Poznaniu na kierunku Gospodarka Przestrzenna. Zdobyłem podstawową wiedzę z zakresu planowania przestrzennego i rozwoju regionalnego. Posiadam praktyczne umiejętności obsługi narzędzi GIS, CAD, SketchUp oraz MS Office w celu opracowywania czytelnych analiz i formułowania wniosków dla dokumentów strategicznych oraz przygotowania koncepcji zagospodarowania przestrzennego. 
 
 # Projekt
-Mój ostatni projekt dotyczył mojej pracy inżynierskiej pt.: „Koncepcja zagospodarowania przestrzennego terenów: ROD przy ul. Hetmańskiej oraz terenu pomiędzy ul. Hetmańską i Krathofera w Poznaniu” i koncentrował się na procesie oceny i ustalania zasad dotyczących zagospodarowania przestrzennego na danych obszarach, aby opracować zrównoważoną koncepcję zagospodarowania przestrzennego służącą mieszkańcom miasta Poznań.
+Mój ostatni projekt dotyczył mojej pracy inżynierskiej pt.: „Koncepcja zagospodarowania przestrzennego terenów: ROD przy ul. Hetmańskiej oraz terenu pomiędzy ul. Hetmańską i Krauthofera w Poznaniu” i koncentrował się na procesie oceny i ustalania zasad dotyczących zagospodarowania przestrzennego na danych obszarach, aby opracować zrównoważoną koncepcję zagospodarowania przestrzennego służącą mieszkańcom miasta Poznań.
 
 Lokalizacja obszarów opracowania:
 ```geojson
